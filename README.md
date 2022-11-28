@@ -16,11 +16,6 @@ The user needs to input basic attributes like temperature, rainfall, location, a
 - *`GitHub`*
 - *`Jupyter Notebook`*
 - *`Machine Learning`*
-## Project Admins 
-[Lakshay Banga](https://github.com/lakshay2000)
 
-[Siddhi Gupta](https://github.com/siddhiiguptaa)
-
-[Harshita Bajaj](https://github.com/Harshita-b)
 
 ![Generic badge](https://img.shields.io/badge/CropMantra-TechForGood-orange) [![Generic badge](https://img.shields.io/badge/visit-website-purple)](https://cropmantra.herokuapp.com/)
